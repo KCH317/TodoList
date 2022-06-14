@@ -1,0 +1,4 @@
+#Mon Jun 13 00:35:54 KST 2022
+base.0=/Users/gwonchanho/Desktop/StudioProjects/todolist/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
